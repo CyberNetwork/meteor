@@ -1,0 +1,43 @@
+.btn-primary {
+    background: linear-gradient(to top, #65cbc0, #5d68bc);
+    border-radius: 8px;
+    padding: 6px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid white;
+}
+.btn-primary:hover {
+    background: linear-gradient(to top, #5d68bc, #5d68bc);
+    border-radius: 8px;
+    padding: 6px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid white;
+}
+
+
+
+.btn-default {
+    background: linear-gradient(to top, #e3e3e3, #cacbd9);
+    border-radius: 8px;
+    padding: 6px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid white;
+}
+.btn-dafault:hover {
+    background: linear-gradient(to top, #cacbd9, #cacbd9);
+    border-radius: 8px;
+    padding: 6px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid white;
+}
